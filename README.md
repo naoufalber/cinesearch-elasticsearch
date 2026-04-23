@@ -12,9 +12,8 @@ Sommaire
 - [Installation et mise en place](#installation-et-mise-en-place)
 - [Indexation des données](#indexation-des-données)
 - [Lancer l’application en ligne de commande](#lancer-lapplication-en-ligne-de-commande)
-- [Créer les visualisations dans Kibana](#créer-les-visualisations-dans-kibana)
-- [Captures d’écran](#captures-décran)
-- [Améliorations possibles](#améliorations-possibles)
+- [Installation des dépendances pour les tests](#Installation-des-dépendances-pour-les-tests)
+
 
 Structure du projet
 -------------------
