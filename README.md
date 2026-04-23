@@ -142,13 +142,13 @@ Depuis le dossier `src/`, exécutez :
 
 ```bash
 python -m streamlit run app.py
+```
 
 
 
 
 
-
-📦 Installation des dépendances
+# Installation des dépendances pour les tests
 
 ### Option 1 : Installer les dépendances de test uniquement
 ```bash
